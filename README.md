@@ -1,10 +1,6 @@
-<h1 align="center">Hi ✋🏻, I'm Manohar</h1>
+<h1 align="center">Hi, I'm Manohar</h1>
 
 - 🔭 I’m currently working on **Compilers & Interpreters**
-
-- 🌱 I’m currently learning **Go lang**
-
-- 📫 How to reach me **manoharkakumani@gmail.com**
 
 - ⚡ Fun fact **404**
 
